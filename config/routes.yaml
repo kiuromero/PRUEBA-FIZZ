@@ -1,0 +1,8 @@
+desafio-uno:
+    path: desafio1/fizz/buzz
+    controller: App\Controller\PruebaController::index
+
+desafio-dos:
+    path: desafio2/fizz/buzz
+    controller: App\Controller\PruebaController::new
+    methods: POST
